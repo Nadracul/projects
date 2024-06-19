@@ -4,5 +4,5 @@ numpy
 bs4
 seaborn
 requests
-matplotlib.pyplot
-plotly.graph_objects
+matplotlib
+plotly
